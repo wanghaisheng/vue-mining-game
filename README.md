@@ -1,4 +1,6 @@
 # Vue 挖矿小游戏
+# mining games unblocked
+
 本项目基于Vue.js开发, 项目想法来源于[广树](https://github.com/eeg1412)的[维基萌抽卡 - 星星矿场](https://github.com/eeg1412/wikimoeCardByNodeJS)
 
 # 项目预览
